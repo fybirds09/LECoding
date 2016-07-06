@@ -1,5 +1,5 @@
 // 2016-2-12
-
+// two pointers / hashmap
 package com.chris.leetcode;
 
 import java.util.*;
